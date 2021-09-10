@@ -1,0 +1,7 @@
+D:\c#\Async91\ClientServer\ClientServerMicrosoftDoc\bin\Debug\ClientServerMicrosoftDoc.exe.config
+D:\c#\Async91\ClientServer\ClientServerMicrosoftDoc\bin\Debug\ClientServerMicrosoftDoc.exe
+D:\c#\Async91\ClientServer\ClientServerMicrosoftDoc\bin\Debug\ClientServerMicrosoftDoc.pdb
+D:\c#\Async91\ClientServer\ClientServerMicrosoftDoc\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\c#\Async91\ClientServer\ClientServerMicrosoftDoc\obj\Debug\ClientServerMicrosoftDoc.exe
+D:\c#\Async91\ClientServer\ClientServerMicrosoftDoc\obj\Debug\ClientServerMicrosoftDoc.pdb
+D:\c#\Async91\ClientServer\ClientServerMicrosoftDoc\obj\Debug\Server.csprojAssemblyReference.cache
